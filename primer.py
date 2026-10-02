@@ -7,3 +7,7 @@ st.write(f"{celsius} C son {fahrenheit} F")
 
 #Nueva caracteristica
 #Cambio de otra rama
+
+#Logica adicional
+
+#otro nuevo cambio
