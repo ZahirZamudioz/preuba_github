@@ -11,3 +11,5 @@ st.write(f"{celsius} C son {fahrenheit} F")
 #Logica adicional
 
 #otro nuevo cambio
+
+#Correeccion del pull request
